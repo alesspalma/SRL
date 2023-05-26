@@ -1,0 +1,10 @@
+Flask==2.0.3
+requests==2.27.1
+scikit-learn==1.0.2
+numpy==1.21.5
+tqdm==4.63.0
+torch==1.9.0
+rich==12.0.0
+transformers-embedder==3.0.8
+TorchCRF==1.1.0
+stanza==1.4.0
